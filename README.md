@@ -17,7 +17,7 @@ I'm a student deeply passionate about Artificial Intelligence, Python programmin
 
 - Programming languages: **Python** (_proficient_), **C++** (_currently learning_)
 - AI & machine learning: **Tensorflow, PyTorch, scikit-learn**
-- Game development: Game design principles
+- Database Management & Datawarehousing: **PostgreSQL**
 
 ### Fun facts
 
