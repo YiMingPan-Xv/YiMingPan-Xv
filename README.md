@@ -1,4 +1,4 @@
-# Hi there, I'm @apnadev-xv👋
+# Hi there, I'm @CodeEchoXv👋
 
 I'm a student deeply passionate about Artificial Intelligence, Python programming, generative AI, and in my free time, game development. Welcome to my GitHub profile!
 ### About me
