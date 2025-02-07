@@ -1,4 +1,4 @@
-# Hi there, I'm @CodeEchoXv👋
+# Hi there, I'm @YiMingPan-Xv👋
 
 I'm a student deeply passionate about Artificial Intelligence, Python programming, generative AI, and in my free time, game development. Welcome to my GitHub profile!
 ### About me
