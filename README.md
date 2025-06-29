@@ -11,7 +11,6 @@ I'm a student deeply passionate about Artificial Intelligence, Python programmin
 ### What I'm currently working on
 
 - 🌿**Reinforcement Learning for an assistant companion app**
-- 🧠Testing Spike Neural Network models
 - 📚Learning C++
 
 ### My skills
