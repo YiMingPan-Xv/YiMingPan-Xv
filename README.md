@@ -10,7 +10,7 @@ I'm a student deeply passionate about Artificial Intelligence, Python programmin
 
 ### What I'm currently working on
 
-- 🌿**Reinforcement Learning for an assistant companion app**
+- 🌿**Reinforcement Learning**
 - 📚Learning C++
 
 ### My skills
