@@ -4,13 +4,13 @@ I'm deeply passionate about Artificial Intelligence, Python programming, NLP, an
 ### About me
 
 - 22 years old
-- I achieved a bachelor's degree in artificial intelligence.
-- Natural Language Processing is fascinating to me, stirring my curiosity towards LLMs, NER/NEL, and IR.
+- Bachelor's degree in artificial intelligence.
+- Natural Language Processing is fascinating to me, driving my curiosity towards LLMs, NER/NEL, and IR.
 - I love coding in Python, especially making entertaining projects for me and my friends to try.
 
 ### What I'm currently working on
 
-- **Tulip Bot**: A bot that manages the economy of a discord server, as well as introducing minigames and a RPG system.
+- **Tulip Bot**: A bot that manages the economy of a discord server, as well as introducing minigames and a combat RPG system.
 - **OOVerseer**: A program that streamlines the process of detecting and describing entity terms considered Out-of-Vocabulary with respect to a given embedding model.
 
 ### My skills
