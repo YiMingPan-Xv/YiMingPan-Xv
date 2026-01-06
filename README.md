@@ -1,4 +1,4 @@
-![Header](./profile-banner.png)
+![Header](./github-header-banner.png)
 
 I'm deeply passionate about Artificial Intelligence, Python programming, NLP, and in my free time, game development. Welcome to my GitHub profile!
 ### About me
