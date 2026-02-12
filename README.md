@@ -10,7 +10,7 @@ I'm deeply passionate about Artificial Intelligence, Python programming, NLP, an
 
 ### What I'm currently working on
 
-- **Tulip Bot**: A bot that manages the economy of a discord server, as well as introducing minigames and a combat RPG system.
+- **Zero-Day Bot**: A bot that manages the economy of a discord server, as well as introducing minigames and a combat RPG system.
 - **OOVerseer**: A program that streamlines the process of detecting and describing entity terms considered Out-of-Vocabulary with respect to a given embedding model.
 
 ### My skills
