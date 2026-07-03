@@ -3,7 +3,7 @@
 I'm deeply passionate about Artificial Intelligence, Python programming, NLP, and in my free time, game development. Welcome to my GitHub profile!
 ### About me
 
-- 22 years old
+- 23 years old
 - Bachelor's degree in artificial intelligence.
 - Natural Language Processing is fascinating to me, driving my curiosity towards LLMs, NER/NEL, and IR.
 - I love coding in Python, especially making entertaining projects for me and my friends to try.
