@@ -1,5 +1,3 @@
-![Header](./github-header-banner.png)
-
 BCs in AI | MSc in HPC
 
                                                                                                                                                                                                         
